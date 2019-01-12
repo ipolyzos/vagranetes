@@ -1,0 +1,7 @@
+# General
+.vagrant/
+tmp/
+# Kubectl
+.kube/
+# Log files (if you are creating logs in debug mode, uncomment this)
+*.logs
