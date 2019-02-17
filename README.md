@@ -8,7 +8,7 @@ A Kubernetes multi-node set up by kubeadm in Vagrant machines. The project stand
 
 ## Deployment 
  * **[Kubernetes](https://kubernetes.io)** 
- * **[CRI-o](http://)** 
+ * **[CRI-o](https://cri-o.io/)** 
  * **[Docker](https://docker.io)**
 
 ## How to deploy
